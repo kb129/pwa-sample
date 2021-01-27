@@ -1,1 +1,1 @@
-[demo](kb129.github.io/pwa-sample)
+[demo](https://kb129.github.io/pwa-sample)
