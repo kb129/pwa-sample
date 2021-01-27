@@ -1,5 +1,5 @@
 /**
- * ‰æ–Êƒ^ƒbƒ`‚ÅƒJƒ‰ƒtƒ‹‚Èü‚ğ•`‚­
+ * ç”»é¢ã‚¿ãƒƒãƒã§ã‚«ãƒ©ãƒ•ãƒ«ãªç·šã‚’æã
  * ------------------------------
  */
 var drawing = false
@@ -11,9 +11,9 @@ function resize() {
     canvas.setAttribute('width', window.innerWidth * 2)
     canvas.setAttribute('height', window.innerHeight * 2)
     ctx.font = '30px serif'
-    ctx.fillText('PWAƒTƒ“ƒvƒ‹ƒAƒvƒŠ', 20, 40)
+    ctx.fillText('PWAã‚µãƒ³ãƒ—ãƒ«ã‚¢ãƒ—ãƒª', 20, 40)
     ctx.font = '25px serif'
-    ctx.fillText('ƒ}ƒEƒX‚âwƒ^ƒbƒ`‚Åü‚ª•`‚¯‚é‚æI', 15, 80)
+    ctx.fillText('ãƒã‚¦ã‚¹ã‚„æŒ‡ã‚¿ãƒƒãƒã§ç·šãŒæã‘ã‚‹ã‚ˆï¼', 15, 80)
     ctx.lineWidth = 5
     ctx.scale(2, 2)
 }
